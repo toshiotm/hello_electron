@@ -1,0 +1,20 @@
+{
+  "name": "hello_electron",
+  "version": "1.0.0",
+  "description": "electron sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toshiotm/hello_electron.git"
+  },
+  "keywords": [],
+  "author": "toshiotm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshiotm/hello_electron/issues"
+  },
+  "homepage": "https://github.com/toshiotm/hello_electron"
+}
